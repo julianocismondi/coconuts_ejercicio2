@@ -1,0 +1,9 @@
+D:\usuarios\alumno\escritorio\ProductoDeDosNumeros\ProductoDeDosNumeros\ProductoDeDosNumeros\bin\Debug\ProductoDeDosNumeros.exe.config
+D:\usuarios\alumno\escritorio\ProductoDeDosNumeros\ProductoDeDosNumeros\ProductoDeDosNumeros\bin\Debug\ProductoDeDosNumeros.exe
+D:\usuarios\alumno\escritorio\ProductoDeDosNumeros\ProductoDeDosNumeros\ProductoDeDosNumeros\bin\Debug\ProductoDeDosNumeros.pdb
+D:\usuarios\alumno\escritorio\ProductoDeDosNumeros\ProductoDeDosNumeros\ProductoDeDosNumeros\obj\Debug\ProductoDeDosNumeros.Form1.resources
+D:\usuarios\alumno\escritorio\ProductoDeDosNumeros\ProductoDeDosNumeros\ProductoDeDosNumeros\obj\Debug\ProductoDeDosNumeros.Properties.Resources.resources
+D:\usuarios\alumno\escritorio\ProductoDeDosNumeros\ProductoDeDosNumeros\ProductoDeDosNumeros\obj\Debug\ProductoDeDosNumeros.csproj.GenerateResource.cache
+D:\usuarios\alumno\escritorio\ProductoDeDosNumeros\ProductoDeDosNumeros\ProductoDeDosNumeros\obj\Debug\ProductoDeDosNumeros.exe
+D:\usuarios\alumno\escritorio\ProductoDeDosNumeros\ProductoDeDosNumeros\ProductoDeDosNumeros\obj\Debug\ProductoDeDosNumeros.pdb
+D:\usuarios\alumno\escritorio\ProductoDeDosNumeros\ProductoDeDosNumeros\ProductoDeDosNumeros\obj\Debug\ProductoDeDosNumeros.csprojAssemblyReference.cache
